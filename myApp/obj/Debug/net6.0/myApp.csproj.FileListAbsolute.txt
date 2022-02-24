@@ -1,0 +1,15 @@
+C:\Workspace\Projeto\dio-desafio-github-primeiro-repositorio\myApp\bin\Debug\net6.0\myApp.exe
+C:\Workspace\Projeto\dio-desafio-github-primeiro-repositorio\myApp\bin\Debug\net6.0\myApp.deps.json
+C:\Workspace\Projeto\dio-desafio-github-primeiro-repositorio\myApp\bin\Debug\net6.0\myApp.runtimeconfig.json
+C:\Workspace\Projeto\dio-desafio-github-primeiro-repositorio\myApp\bin\Debug\net6.0\myApp.dll
+C:\Workspace\Projeto\dio-desafio-github-primeiro-repositorio\myApp\bin\Debug\net6.0\myApp.pdb
+C:\Workspace\Projeto\dio-desafio-github-primeiro-repositorio\myApp\obj\Debug\net6.0\myApp.csproj.AssemblyReference.cache
+C:\Workspace\Projeto\dio-desafio-github-primeiro-repositorio\myApp\obj\Debug\net6.0\myApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspace\Projeto\dio-desafio-github-primeiro-repositorio\myApp\obj\Debug\net6.0\myApp.AssemblyInfoInputs.cache
+C:\Workspace\Projeto\dio-desafio-github-primeiro-repositorio\myApp\obj\Debug\net6.0\myApp.AssemblyInfo.cs
+C:\Workspace\Projeto\dio-desafio-github-primeiro-repositorio\myApp\obj\Debug\net6.0\myApp.csproj.CoreCompileInputs.cache
+C:\Workspace\Projeto\dio-desafio-github-primeiro-repositorio\myApp\obj\Debug\net6.0\myApp.dll
+C:\Workspace\Projeto\dio-desafio-github-primeiro-repositorio\myApp\obj\Debug\net6.0\refint\myApp.dll
+C:\Workspace\Projeto\dio-desafio-github-primeiro-repositorio\myApp\obj\Debug\net6.0\myApp.pdb
+C:\Workspace\Projeto\dio-desafio-github-primeiro-repositorio\myApp\obj\Debug\net6.0\myApp.genruntimeconfig.cache
+C:\Workspace\Projeto\dio-desafio-github-primeiro-repositorio\myApp\obj\Debug\net6.0\ref\myApp.dll
