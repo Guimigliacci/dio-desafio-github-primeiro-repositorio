@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Workspace\\Projeto\\dio-desafio-github-primeiro-repositorio\\DigitalInnovation\\DigitalInnovation.csproj",
+      "projectUniqueName": "C:\\Workspace\\Projeto\\git\\DigitalInnovation\\DigitalInnovation.csproj",
       "projectName": "DigitalInnovation",
-      "projectPath": "C:\\Workspace\\Projeto\\dio-desafio-github-primeiro-repositorio\\DigitalInnovation\\DigitalInnovation.csproj",
+      "projectPath": "C:\\Workspace\\Projeto\\git\\DigitalInnovation\\DigitalInnovation.csproj",
       "packagesPath": "C:\\Users\\Pichau\\.nuget\\packages\\",
-      "outputPath": "C:\\Workspace\\Projeto\\dio-desafio-github-primeiro-repositorio\\DigitalInnovation\\obj\\",
+      "outputPath": "C:\\Workspace\\Projeto\\git\\DigitalInnovation\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Pichau\\AppData\\Roaming\\NuGet\\NuGet.Config"

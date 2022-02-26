@@ -1,0 +1,15 @@
+C:\Workspace\Projeto\git\DigitalInnovation\bin\Debug\net6.0\DigitalInnovation.exe
+C:\Workspace\Projeto\git\DigitalInnovation\bin\Debug\net6.0\DigitalInnovation.deps.json
+C:\Workspace\Projeto\git\DigitalInnovation\bin\Debug\net6.0\DigitalInnovation.runtimeconfig.json
+C:\Workspace\Projeto\git\DigitalInnovation\bin\Debug\net6.0\DigitalInnovation.dll
+C:\Workspace\Projeto\git\DigitalInnovation\bin\Debug\net6.0\DigitalInnovation.pdb
+C:\Workspace\Projeto\git\DigitalInnovation\obj\Debug\net6.0\DigitalInnovation.csproj.AssemblyReference.cache
+C:\Workspace\Projeto\git\DigitalInnovation\obj\Debug\net6.0\DigitalInnovation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspace\Projeto\git\DigitalInnovation\obj\Debug\net6.0\DigitalInnovation.AssemblyInfoInputs.cache
+C:\Workspace\Projeto\git\DigitalInnovation\obj\Debug\net6.0\DigitalInnovation.AssemblyInfo.cs
+C:\Workspace\Projeto\git\DigitalInnovation\obj\Debug\net6.0\DigitalInnovation.csproj.CoreCompileInputs.cache
+C:\Workspace\Projeto\git\DigitalInnovation\obj\Debug\net6.0\DigitalInnovation.dll
+C:\Workspace\Projeto\git\DigitalInnovation\obj\Debug\net6.0\refint\DigitalInnovation.dll
+C:\Workspace\Projeto\git\DigitalInnovation\obj\Debug\net6.0\DigitalInnovation.pdb
+C:\Workspace\Projeto\git\DigitalInnovation\obj\Debug\net6.0\DigitalInnovation.genruntimeconfig.cache
+C:\Workspace\Projeto\git\DigitalInnovation\obj\Debug\net6.0\ref\DigitalInnovation.dll
