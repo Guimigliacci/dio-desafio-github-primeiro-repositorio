@@ -7,7 +7,7 @@
             "type": "process",
             "args": [
                 "build",
-                "${workspaceFolder}/DigitalInnovation.csproj",
+                "${workspaceFolder}/Iniciando com .NET/csharp-examples/01-EstruturaDoPrograma/EstruturaDoPrograma.csproj",
                 "/property:GenerateFullPaths=true",
                 "/consoleloggerparameters:NoSummary"
             ],
@@ -19,7 +19,7 @@
             "type": "process",
             "args": [
                 "publish",
-                "${workspaceFolder}/DigitalInnovation.csproj",
+                "${workspaceFolder}/Iniciando com .NET/csharp-examples/01-EstruturaDoPrograma/EstruturaDoPrograma.csproj",
                 "/property:GenerateFullPaths=true",
                 "/consoleloggerparameters:NoSummary"
             ],
@@ -33,7 +33,7 @@
                 "watch",
                 "run",
                 "--project",
-                "${workspaceFolder}/DigitalInnovation.csproj"
+                "${workspaceFolder}/Iniciando com .NET/csharp-examples/01-EstruturaDoPrograma/EstruturaDoPrograma.csproj"
             ],
             "problemMatcher": "$msCompile"
         }
