@@ -1,0 +1,15 @@
+C:\Workspace\Projeto\git\Projetos\bin\Debug\net6.0\Projetos.exe
+C:\Workspace\Projeto\git\Projetos\bin\Debug\net6.0\Projetos.deps.json
+C:\Workspace\Projeto\git\Projetos\bin\Debug\net6.0\Projetos.runtimeconfig.json
+C:\Workspace\Projeto\git\Projetos\bin\Debug\net6.0\Projetos.dll
+C:\Workspace\Projeto\git\Projetos\bin\Debug\net6.0\Projetos.pdb
+C:\Workspace\Projeto\git\Projetos\obj\Debug\net6.0\Projetos.csproj.AssemblyReference.cache
+C:\Workspace\Projeto\git\Projetos\obj\Debug\net6.0\Projetos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspace\Projeto\git\Projetos\obj\Debug\net6.0\Projetos.AssemblyInfoInputs.cache
+C:\Workspace\Projeto\git\Projetos\obj\Debug\net6.0\Projetos.AssemblyInfo.cs
+C:\Workspace\Projeto\git\Projetos\obj\Debug\net6.0\Projetos.csproj.CoreCompileInputs.cache
+C:\Workspace\Projeto\git\Projetos\obj\Debug\net6.0\Projetos.dll
+C:\Workspace\Projeto\git\Projetos\obj\Debug\net6.0\refint\Projetos.dll
+C:\Workspace\Projeto\git\Projetos\obj\Debug\net6.0\Projetos.pdb
+C:\Workspace\Projeto\git\Projetos\obj\Debug\net6.0\Projetos.genruntimeconfig.cache
+C:\Workspace\Projeto\git\Projetos\obj\Debug\net6.0\ref\Projetos.dll
