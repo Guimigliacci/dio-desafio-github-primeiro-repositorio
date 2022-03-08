@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Workspace\\Projeto\\git\\Projetos\\Projeto 2\\Projeto 2.csproj": {}
+    "C:\\Workspace\\Projeto\\git\\Projetos\\Projeto 2\\Projeto 2.csproj": {}
   },
   "projects": {
-    "c:\\Workspace\\Projeto\\git\\Projetos\\Projeto 2\\Projeto 2.csproj": {
+    "C:\\Workspace\\Projeto\\git\\Projetos\\Projeto 2\\Projeto 2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Workspace\\Projeto\\git\\Projetos\\Projeto 2\\Projeto 2.csproj",
+        "projectUniqueName": "C:\\Workspace\\Projeto\\git\\Projetos\\Projeto 2\\Projeto 2.csproj",
         "projectName": "Projeto 2",
-        "projectPath": "c:\\Workspace\\Projeto\\git\\Projetos\\Projeto 2\\Projeto 2.csproj",
+        "projectPath": "C:\\Workspace\\Projeto\\git\\Projetos\\Projeto 2\\Projeto 2.csproj",
         "packagesPath": "C:\\Users\\Pichau\\.nuget\\packages\\",
-        "outputPath": "c:\\Workspace\\Projeto\\git\\Projetos\\Projeto 2\\obj\\",
+        "outputPath": "C:\\Workspace\\Projeto\\git\\Projetos\\Projeto 2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Pichau\\AppData\\Roaming\\NuGet\\NuGet.Config"
